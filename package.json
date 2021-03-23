@@ -1,0 +1,22 @@
+{
+  "name": "discord.js-bot",
+  "version": "1.0.0",
+  "description": "It's basically a template for discord bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cls"
+  },
+  "keywords": [
+    "ping"
+  ],
+  "author": "bagel",
+  "license": "ISC"
+}
