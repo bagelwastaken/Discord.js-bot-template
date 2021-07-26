@@ -1,4 +1,4 @@
-//make sure to install discord in the terminal by doing npm i discord.js
+//make sure to install discord in the terminal by doing: npm i discord.js
 const discord = require('discord.js')
 const bot = new Discord.Client()
 const prefix = !
@@ -21,3 +21,5 @@ bot.on("message", msg =>  {
   });
 
   bot.login(token)
+
+//To test out the command, invite your bot to the server and type in !ping
