@@ -35,5 +35,9 @@ const fs = require('fs');
 		else { client.on(name, (...args) => execute(...args, client)); }
 	}
 })();
-//client.login(process.env['Token']);
-client.login('NzM2NTQ3Mjc5MzIxNjk0MjA5.XxwZGw.oJFL7GaUQzNyFpFtALFTAtjijEU')
+/*client.login(process.env['Token']);
+or
+client.login('Insert token here')
+*/
+
+
